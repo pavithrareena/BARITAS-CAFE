@@ -28,19 +28,7 @@ The prototype website for the Baristas Cafe About Page is designed to be intuiti
 - **Visual Storytelling**: Using images and typography to convey the cafe's unique story.
 - **Interactive Elements**: Engaging users with interactive components that enhance the browsing experience.
 
-Feel free to explore the prototype and share your feedback!
-
-## 🚀 Getting Started
-
-To view the design and prototype:
-
-1. Clone the repository: `git clone https://github.com/yourusername/baristas-cafe-about-page.git`
-2. Open the project in your preferred code editor.
-3. Navigate to the `prototype` folder and open `index.html` in your web browser.
-
-## 📫 Contact
-
-If you have any questions or feedback, please reach out to me at [your.email@example.com](mailto:your.email@example.com). I'd love to hear from you! 🌟
+Feel free to explore the prototype and share your feedback
 
 ---
 
@@ -48,4 +36,3 @@ Thank you for checking out the Baristas Cafe About Page project! Your support an
 
 ---
 
-*Note: Replace "yourusername" with your actual GitHub username and "your.email@example.com" with your actual email address.*
